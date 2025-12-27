@@ -1,0 +1,55 @@
+{
+    "name": "Qelexen",
+    "machines": [
+        {
+            "reserved": false,
+            "id": 1,
+            "status": "AVAILABLE"
+        },
+        {
+            "reserved": false,
+            "id": 2,
+            "status": "AVAILABLE"
+        },
+        {
+            "reserved": false,
+            "id": 3,
+            "status": "AVAILABLE"
+        },
+        {
+            "reserved": false,
+            "id": 4,
+            "status": "AVAILABLE"
+        },
+        {
+            "reserved": false,
+            "id": 5,
+            "status": "RUNNING"
+        },
+        {
+            "reserved": false,
+            "id": 6,
+            "status": "AVAILABLE"
+        },
+        {
+            "reserved": false,
+            "id": 7,
+            "status": "AVAILABLE"
+        },
+        {
+            "reserved": false,
+            "id": 8,
+            "status": "AVAILABLE"
+        },
+        {
+            "reserved": false,
+            "id": 9,
+            "status": "AVAILABLE"
+        },
+        {
+            "reserved": false,
+            "id": 10,
+            "status": "AVAILABLE"
+        }
+    ]
+}

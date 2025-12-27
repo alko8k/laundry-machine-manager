@@ -1,0 +1,16 @@
+{
+    "name": "Qelexen",
+    "machines": [
+        {
+            "reserved": false,
+            "id": 1,
+            "status": "AVAILABLE"
+        },
+        {
+            "reserved": true,
+            "reservedBy": "28845236",
+            "id": 2,
+            "status": "RESERVED"
+        }
+    ]
+}

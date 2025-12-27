@@ -1,0 +1,13 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.checkstyle.configuration": "${workspaceFolder}/ProjectStarter/checkstyle.xml",
+    "java.project.sourcePaths": [
+        "ProjectStarter/src/main",
+        "ProjectStarter/src/test"
+    ],
+    "java.project.referencedLibraries": [
+        "ProjectStarter/lib/json-20250517.jar",
+        "ProjectStarter/lib/JacocoExcludeFromReportAnnotation.jar",
+        "ProjectStarter/lib/junit-platform-console-standalone-1.10.2.jar"
+    ]
+}
